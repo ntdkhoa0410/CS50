@@ -1,0 +1,27 @@
+
+.main_content{
+  clear: left;
+  color: white;
+  /* border: 3px solid #73AD21; */
+  width: 60%;
+  margin: auto;
+}
+.video_player{
+  position: relative;
+  width: 60%;
+  margin: auto;
+  padding-bottom: 35%; 
+  height: 0;
+  margin-top: 20px;
+}
+
+.video_player iframe{
+  border:none;
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+
+

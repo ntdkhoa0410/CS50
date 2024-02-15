@@ -1,0 +1,22 @@
+.container{
+    clear: left;
+    color: white;
+    /* border: 3px solid #73AD21; */
+    width: 60%;
+    margin: auto;
+}
+.carousel-item{
+    background: black;
+    height: 30vw;
+    background-size: cover;
+    background-position: center;
+}
+.carousel-item .content{
+    color: white;
+    position: absolute;
+    bottom: 0;
+    text-align: center;
+    left: 0;
+    right: 0;
+    padding-bottom: 20px;
+}

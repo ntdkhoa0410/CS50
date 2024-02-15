@@ -1,0 +1,21 @@
+.container{
+    clear: left;
+    color: white;
+    width: 60%;
+    margin: auto;
+}
+.form_element{
+    margin-top: 5px;
+    margin-bottom: 5px;
+
+}
+input, textarea{
+    width: 100%;
+    padding: 8px 8px;
+    border-radius: 10px;
+    background-color: rgb(255, 255, 255);
+    opacity: 0.5;
+}
+input:hover, textarea:hover, input:focus, textarea:focus{
+    opacity: 0.9;
+}
